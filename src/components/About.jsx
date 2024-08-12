@@ -12,7 +12,7 @@ const About = () => {
             About
           </p>
         </div>
-         <img  style={{width:"300px",borderRadius:"150px",width:"227px",height:"226px"}} src={pic}/>
+         <img  style={{width:"300px",borderRadius:"150px",width:"247px",height:"226px"}} src={pic}/>
         <p className="text-xl mt-5">
         I am a web developer, working in both, backend and frontend programming. Excited for improving my skills and learning new technologies. I'm open to learn and work with any web technology and currently doing freelance gigs.
         </p>
